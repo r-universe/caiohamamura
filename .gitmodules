@@ -7,3 +7,4 @@
 	path = flightplanning
 	url = https://github.com/caiohamamura/flightplanning-r
 	shallow = true
+	registered = true
