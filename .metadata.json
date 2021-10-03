@@ -2,5 +2,12 @@
   {
     "package": "flightplanning",
     "oncran": true
+  },
+  {
+    "package": "radarBoxplot",
+    "oncran": false
+  },
+  {
+    "package": "rLiDAR"
   }
 ]

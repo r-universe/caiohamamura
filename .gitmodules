@@ -1,10 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/caiohamamura/universe
 	shallow = true
 	branch = HEAD
 [submodule "flightplanning"]
 	path = flightplanning
-	url = https://github.com/caiohamamura/flightplanning-r
+	url = https://github.com/caiohamamura/flightplanning-R
+	shallow = true
+	registered = true
+[submodule "radarBoxplot"]
+	path = radarBoxplot
+	url = https://github.com/caiohamamura/radarBoxplot-R
+	shallow = true
+	registered = true
+[submodule "rLiDAR"]
+	path = rLiDAR
+	url = https://github.com/carlos-alberto-silva/rLiDAR
 	shallow = true
 	registered = true
