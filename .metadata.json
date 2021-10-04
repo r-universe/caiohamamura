@@ -9,5 +9,28 @@
   },
   {
     "package": "rLiDAR"
+  },
+  {
+    "package": "leafR",
+    "oncran": true
+  },
+  {
+    "package": "rGEDI",
+    "oncran": true
+  },
+  {
+    "package": "treetop",
+    "oncran": true
+  },
+  {
+    "package": "tabularMLC"
+  },
+  {
+    "package": "ForestGapR",
+    "oncran": false
+  },
+  {
+    "package": "rForest",
+    "oncran": true
   }
 ]

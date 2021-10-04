@@ -18,3 +18,33 @@
 	url = https://github.com/carlos-alberto-silva/rLiDAR
 	shallow = true
 	registered = true
+[submodule "leafR"]
+	path = leafR
+	url = https://github.com/DRAAlmeida/leafR
+	shallow = true
+	registered = true
+[submodule "rGEDI"]
+	path = rGEDI
+	url = https://github.com/carlos-alberto-silva/rGEDI
+	shallow = true
+	registered = true
+[submodule "treetop"]
+	path = treetop
+	url = https://github.com/carlos-alberto-silva/weblidar-treetop
+	shallow = true
+	registered = true
+[submodule "tabularMLC"]
+	path = tabularMLC
+	url = https://github.com/caiohamamura/tabularMLC
+	shallow = true
+	registered = true
+[submodule "ForestGapR"]
+	path = ForestGapR
+	url = https://github.com/carlos-alberto-silva/ForestGapR
+	shallow = true
+	registered = true
+[submodule "rForest"]
+	path = rForest
+	url = https://github.com/carlos-alberto-silva/rForest
+	shallow = true
+	registered = true
