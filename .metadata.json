@@ -9,7 +9,7 @@
   },
   {
     "package": "rLiDAR",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "leafR",
@@ -25,7 +25,7 @@
   },
   {
     "package": "tabularMLC",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "ForestGapR",
