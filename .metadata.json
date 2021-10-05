@@ -24,7 +24,8 @@
     "oncran": true
   },
   {
-    "package": "tabularMLC"
+    "package": "tabularMLC",
+    "oncran": false
   },
   {
     "package": "ForestGapR",
