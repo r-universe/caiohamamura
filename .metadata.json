@@ -1,7 +1,6 @@
 [
   {
-    "package": "flightplanning",
-    "oncran": true
+    "package": "flightplanning"
   },
   {
     "package": "radarBoxplot",
