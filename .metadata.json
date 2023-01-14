@@ -18,16 +18,14 @@
     "package": "rGEDI"
   },
   {
-    "package": "treetop",
-    "oncran": true
+    "package": "treetop"
   },
   {
     "package": "tabularMLC",
     "oncran": true
   },
   {
-    "package": "ForestGapR",
-    "oncran": false
+    "package": "ForestGapR"
   },
   {
     "package": "rForest",
