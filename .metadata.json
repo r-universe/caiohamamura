@@ -28,7 +28,6 @@
     "package": "ForestGapR"
   },
   {
-    "package": "rForest",
-    "oncran": true
+    "package": "rForest"
   }
 ]
