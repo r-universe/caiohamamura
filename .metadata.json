@@ -18,7 +18,8 @@
     "package": "rGEDI"
   },
   {
-    "package": "treetop"
+    "package": "treetop",
+    "oncran": false
   },
   {
     "package": "tabularMLC",
