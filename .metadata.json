@@ -19,7 +19,7 @@
   },
   {
     "package": "treetop",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "tabularMLC",
@@ -30,5 +30,8 @@
   },
   {
     "package": "rForest"
+  },
+  {
+    "package": "rTLsDeep"
   }
 ]

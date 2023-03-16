@@ -48,3 +48,8 @@
 	url = https://github.com/carlos-alberto-silva/rForest
 	shallow = true
 	registered = true
+[submodule "rTLsDeep"]
+	path = rTLsDeep
+	url = https://github.com/carlos-alberto-silva/rTLsDeep
+	shallow = true
+	registered = true
