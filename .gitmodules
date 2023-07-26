@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/caiohamamura/universe
-	shallow = true
 	branch = HEAD
 [submodule "flightplanning"]
 	path = flightplanning
 	url = https://github.com/caiohamamura/flightplanning-R
-	shallow = true
-	registered = true
 [submodule "radarBoxplot"]
 	path = radarBoxplot
 	url = https://github.com/caiohamamura/radarBoxplot-R
-	shallow = true
-	registered = true
 [submodule "rLiDAR"]
 	path = rLiDAR
 	url = https://github.com/carlos-alberto-silva/rLiDAR
-	shallow = true
-	registered = true
 [submodule "leafR"]
 	path = leafR
 	url = https://github.com/DRAAlmeida/leafR
-	shallow = true
-	registered = true
 [submodule "rGEDI"]
 	path = rGEDI
 	url = https://github.com/carlos-alberto-silva/rGEDI
-	shallow = true
-	registered = true
 [submodule "treetop"]
 	path = treetop
 	url = https://github.com/carlos-alberto-silva/weblidar-treetop
-	shallow = true
-	registered = true
 [submodule "tabularMLC"]
 	path = tabularMLC
 	url = https://github.com/caiohamamura/tabularMLC
-	shallow = true
-	registered = true
 [submodule "ForestGapR"]
 	path = ForestGapR
 	url = https://github.com/carlos-alberto-silva/ForestGapR
-	shallow = true
-	registered = true
 [submodule "rForest"]
 	path = rForest
 	url = https://github.com/carlos-alberto-silva/rForest
-	shallow = true
-	registered = true
 [submodule "rTLsDeep"]
 	path = rTLsDeep
 	url = https://github.com/carlos-alberto-silva/rTLsDeep
-	shallow = true
-	registered = true
