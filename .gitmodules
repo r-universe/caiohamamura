@@ -2,33 +2,33 @@
 	path = .registry
 	url = https://github.com/caiohamamura/universe
 	branch = HEAD
-[submodule "flightplanning"]
-	path = flightplanning
-	url = https://github.com/caiohamamura/flightplanning-R
-[submodule "radarBoxplot"]
-	path = radarBoxplot
-	url = https://github.com/caiohamamura/radarBoxplot-R
-[submodule "rLiDAR"]
-	path = rLiDAR
-	url = https://github.com/carlos-alberto-silva/rLiDAR
-[submodule "leafR"]
-	path = leafR
-	url = https://github.com/DRAAlmeida/leafR
-[submodule "rGEDI"]
-	path = rGEDI
-	url = https://github.com/carlos-alberto-silva/rGEDI
-[submodule "treetop"]
-	path = treetop
-	url = https://github.com/carlos-alberto-silva/weblidar-treetop
-[submodule "tabularMLC"]
-	path = tabularMLC
-	url = https://github.com/caiohamamura/tabularMLC
 [submodule "ForestGapR"]
 	path = ForestGapR
 	url = https://github.com/carlos-alberto-silva/ForestGapR
+[submodule "flightplanning"]
+	path = flightplanning
+	url = https://github.com/caiohamamura/flightplanning-R
+[submodule "leafR"]
+	path = leafR
+	url = https://github.com/DRAAlmeida/leafR
 [submodule "rForest"]
 	path = rForest
 	url = https://github.com/carlos-alberto-silva/rForest
+[submodule "rGEDI"]
+	path = rGEDI
+	url = https://github.com/carlos-alberto-silva/rGEDI
+[submodule "rLiDAR"]
+	path = rLiDAR
+	url = https://github.com/carlos-alberto-silva/rLiDAR
 [submodule "rTLsDeep"]
 	path = rTLsDeep
 	url = https://github.com/carlos-alberto-silva/rTLsDeep
+[submodule "radarBoxplot"]
+	path = radarBoxplot
+	url = https://github.com/caiohamamura/radarBoxplot-R
+[submodule "tabularMLC"]
+	path = tabularMLC
+	url = https://github.com/caiohamamura/tabularMLC
+[submodule "treetop"]
+	path = treetop
+	url = https://github.com/carlos-alberto-silva/weblidar-treetop
