@@ -8,6 +8,9 @@
 [submodule "flightplanning"]
 	path = flightplanning
 	url = https://github.com/caiohamamura/flightplanning-R
+[submodule "gdalBindings"]
+	path = gdalBindings
+	url = https://github.com/caiohamamura/gdalBindings-R
 [submodule "leafR"]
 	path = leafR
 	url = https://github.com/DRAAlmeida/leafR
