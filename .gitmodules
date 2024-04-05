@@ -20,6 +20,9 @@
 [submodule "rGEDI"]
 	path = rGEDI
 	url = https://github.com/carlos-alberto-silva/rGEDI
+[submodule "rGEDIsimulator"]
+	path = rGEDIsimulator
+	url = https://github.com/caiohamamura/rGEDIsimulator
 [submodule "rLiDAR"]
 	path = rLiDAR
 	url = https://github.com/carlos-alberto-silva/rLiDAR
