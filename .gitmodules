@@ -5,6 +5,9 @@
 [submodule "ForestGapR"]
 	path = ForestGapR
 	url = https://github.com/carlos-alberto-silva/ForestGapR
+[submodule "ICESat2VegR"]
+	path = ICESat2VegR
+	url = https://github.com/carlos-alberto-silva/ICESat2VegR
 [submodule "flightplanning"]
 	path = flightplanning
 	url = https://github.com/caiohamamura/flightplanning-R
